@@ -1,1 +1,6 @@
 c:\users\icaro.minhavida\documents\visual studio 2013\Projects\Palestras\Generics\bin\Debug\Generics.exe.config
+c:\users\icaro.minhavida\documents\visual studio 2013\Projects\Palestras\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+c:\users\icaro.minhavida\documents\visual studio 2013\Projects\Palestras\Generics\bin\Debug\Generics.exe
+c:\users\icaro.minhavida\documents\visual studio 2013\Projects\Palestras\Generics\bin\Debug\Generics.pdb
+c:\users\icaro.minhavida\documents\visual studio 2013\Projects\Palestras\Generics\obj\Debug\Generics.exe
+c:\users\icaro.minhavida\documents\visual studio 2013\Projects\Palestras\Generics\obj\Debug\Generics.pdb
