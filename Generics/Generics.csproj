@@ -42,7 +42,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="GenericCollections\GenericCollections.cs" />
+    <Compile Include="GenericInterfaces\IPerguntaRepository.cs" />
+    <Compile Include="GenericInterfaces\IRepository.cs" />
+    <Compile Include="GenericInterfaces\IRespostaRepository.cs" />
     <Compile Include="Model\Pergunta.cs" />
+    <Compile Include="Model\Resposta.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -50,7 +54,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="GenericInterfaces\" />
+    <Folder Include="Interfaces\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
