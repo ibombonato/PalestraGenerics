@@ -1,12 +1,9 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Generics.Model;
 
-namespace Generics.Business
+namespace Generics.GenericCollections
 {
     public class GenericCollections
     {
@@ -25,7 +22,7 @@ namespace Generics.Business
             perguntas.Add(new Pergunta() { Id = 2, Texto = "Pergunta 2" });
             perguntas.Add(new Pergunta() { Id = 3, Texto = "Pergunta 3" });
             //perguntas.Add("");
-            foreach (Pergunta pergunta in perguntas)
+            foreach (var pergunta in perguntas)
             {
                 Console.WriteLine(pergunta);
                 //Console.WriteLine(pergunta.Texto);
