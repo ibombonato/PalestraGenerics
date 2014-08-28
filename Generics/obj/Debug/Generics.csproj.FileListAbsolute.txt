@@ -5,3 +5,4 @@ c:\users\icaro.minhavida\documents\visual studio 2013\Projects\Palestras\Generic
 c:\users\icaro.minhavida\documents\visual studio 2013\Projects\Palestras\Generics\obj\Debug\Generics.exe
 c:\users\icaro.minhavida\documents\visual studio 2013\Projects\Palestras\Generics\obj\Debug\Generics.pdb
 C:\Users\Icaro\Documents\Visual Studio 2013\Projects\PalestraGenerics\Generics\bin\Debug\Generics.exe.config
+C:\Users\Icaro\Documents\Visual Studio 2013\Projects\PalestraGenerics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache

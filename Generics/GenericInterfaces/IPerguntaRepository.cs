@@ -9,7 +9,7 @@ namespace Generics.GenericInterfaces
 {
     interface IPerguntaRepository
     {
-        IEnumerable<Pergunta> GetAllPerguntas();
+        IEnumerable<Pergunta> GetPerguntas();
         Pergunta GetPergunta(int id);
         void Add(Pergunta pergunta);
     }
