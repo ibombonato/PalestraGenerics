@@ -10,6 +10,6 @@ namespace Generics.GenericInterfaces
     {
         IEnumerable<T> GetAll();
         T Get(int id);
-        void Add(T pergunta);
+        void Add(T item);
     }
 }
