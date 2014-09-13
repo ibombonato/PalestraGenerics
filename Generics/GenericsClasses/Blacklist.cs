@@ -28,7 +28,7 @@ namespace Generics.Interfaces
     {
         public IEnumerable<string> ConsumirBlacklist()
         {
-            var blackList = new Blacklist<Pergunta>(new UnitOfWork());
+            var blackList = new Blacklist<Usuario>(new UnitOfWork());
             return blackList.ObterTodos();
         }
     }
