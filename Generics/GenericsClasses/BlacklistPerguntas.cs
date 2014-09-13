@@ -5,7 +5,7 @@ using System.Text;
 using Generics.Interfaces;
 using Generics.Model;
 
-namespace Generics.GenericsClasses
+namespace Generics.Interfaces
 {
     public class BlacklistPerguntas
     {

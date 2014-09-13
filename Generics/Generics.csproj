@@ -45,15 +45,17 @@
     <Compile Include="GenericInterfaces\IPerguntaRepository.cs" />
     <Compile Include="GenericInterfaces\IRepository.cs" />
     <Compile Include="GenericInterfaces\IRespostaRepository.cs" />
+    <Compile Include="GenericMethods\GenericMetodo.cs" />
     <Compile Include="GenericMethods\ICache.cs" />
     <Compile Include="GenericsClasses\Blacklist.cs" />
     <Compile Include="GenericsClasses\BlacklistPerguntas.cs" />
     <Compile Include="GenericsClasses\BlacklistRespostas.cs" />
-    <Compile Include="Interfaces\IBlacklist.cs" />
+    <Compile Include="Interfaces\IBlacklistEntity.cs" />
     <Compile Include="Interfaces\IRepositorioBase.cs" />
     <Compile Include="Interfaces\IUnitOfWork.cs" />
     <Compile Include="Model\Pergunta.cs" />
     <Compile Include="Model\Resposta.cs" />
+    <Compile Include="Model\Usuario.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

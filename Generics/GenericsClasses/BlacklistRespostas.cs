@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Generics.Interfaces;
 using Generics.Model;
 
-namespace Generics.GenericsClasses
+namespace Generics.Interfaces
 {
     public class BlacklistRespostas
     {
